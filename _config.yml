@@ -3,7 +3,7 @@ email:              your-email@example.com
 description:        A Blog by Hans Christian, Hella and Clair
 author:             Hans (s103629), Hella (s180317) and Clair (s184187)
 baseurl:            "A-short-data-story"
-url:                "https://flakeraq.github.io/A-short-data-story/"
+url:                "https://flakeraq.github.io/A-short-data-story"
 
 # Social Profiles
 twitter_username:   SBootstrap
